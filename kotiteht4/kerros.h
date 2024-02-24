@@ -17,7 +17,7 @@ public:
 
   Kerros()
   {
-      std::cout << "Kerros luotu" << std::endl; //kerros konstruktori
+     // std::cout << "Kerros luotu" << std::endl; //kerros konstruktori
   }
   void maaritaAsunnot();
 

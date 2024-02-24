@@ -13,7 +13,7 @@ public:
 
   Asunto()
   {
-      std::cout << "Asunto luotu" << std::endl; //konstruktori
+     // std::cout << "Asunto luotu" << std::endl; //konstruktori
   }
 
   void maarita(int asukkaat, int pintaAla); //asunnon maaritys
