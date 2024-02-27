@@ -18,7 +18,7 @@ public:
 
   Kerrostalo()
     {
-      std::cout << "Kerrostalo luotu" << std::endl; //kerrostalo konstruktori
+      //std::cout << "Kerrostalo luotu" << std::endl; //kerrostalo konstruktori
     }
 
   void KerrostalonMaaritus(); //erillinen kerrostalon määritys

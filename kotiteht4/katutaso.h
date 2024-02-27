@@ -8,7 +8,7 @@ public:
 
   Katutaso()
     {
-      std::cout << "Katutaso luotu" << std::endl; //katutaso konstruktori
+      //std::cout << "Katutaso luotu" << std::endl; //katutaso konstruktori
   }
 
   void maaritaAsunnot();

@@ -5,7 +5,7 @@ void Katutaso::maaritaAsunnot() //katutason asuntojen määritys
     as1.maarita(2, 100);
     as2.maarita(2, 100);
 
-    std::cout << "Katutaso maaritettu" << std::endl; //katutason konstruktori
+    //std::cout << "Katutaso maaritettu" << std::endl; //katutason konstruktori
 
 }
 
